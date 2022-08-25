@@ -1,0 +1,74 @@
+What is Python?
+-Python is a high level general purpose programming language
+
+High Level
+
+Low Level - code complexity-tough-assembly 8086
+Mid Level - somewhat easy as compared to low level - C language
+High Level - super easy - easy to learn and implement
+
+General Purpose?
+1.Software Development
+2.Web Development - DJANGO
+3.GAme Development
+4.Data Science -Machine Learning,Deep Learning -Predictive(prediction-probablity)
+ Analysis,IOT(Internet of Things)-Electronice+python - amazon alexa
+
+Weather Forecasting - Data analyst -Data previous years->Prediction
+Python's Installation
+
+Python:
+1.general purpose programming
+2.High level
+3.Interpreted Programming
+Compiler - it executes the whole program at once
+Interpreter - it executes our program in line by line manner
+4.Open Source -freely available
+5.Multiparadigm programming - procedural + Object Oriented+Functional
+
+Course Curriculum
+1.Variables and constants
+2.I/O -Input Output
+3.literals & Data Types
+	-Number - int,float(decimal),complex(a+bj)
+	-String -char,sentence,para
+	-NoneTypes
+	-Boolean
+	-Date
+4.Data Collection
+	-list,tuple,dictionary,sets,
+PLagiarism Calc
+5.COnditional Statements-if -else
+-Chatbot - alexa- minified version
+6.Loop -for and while
+7.Functions -predefine,user define
+8.Exception Handeling
+9.File Handeling
+10.Data Base Integration
+
+application
+-chatbot
+-webcrawling
+
+Project
+Pygame - Game 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
